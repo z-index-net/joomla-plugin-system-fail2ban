@@ -16,7 +16,7 @@
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
-				<field name="message" type="text" required="true" default="user %s authentication failure" label="Log-Message" description="Change this Only if you know what are you doing! %s = Username." />
+				<field name="message" type="text" required="true" default="user %s authentication failure" label="Log-Message" description="Change this only if you know what are you doing! %s = Username." />
 			</fieldset>
 		</fields>
 	</config>
